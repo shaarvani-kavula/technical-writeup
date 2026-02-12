@@ -1,1 +1,1 @@
-# technical-writeup
+# Repo for Tech Write up and Articles
